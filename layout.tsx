@@ -1,7 +1,6 @@
 <html lang="en">
 <head>
-  async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pubba95s116f-1234567890123456"
-  crossorigin="anonymous"></script>
+  <meta name="google-adsense-account" content="ca-pub-9158409361448504">
   
 </head>
 <body>
