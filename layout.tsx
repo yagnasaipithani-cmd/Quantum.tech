@@ -1,8 +1,8 @@
 <html lang="en">
 <head>
-  <script>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pubba95s116f-1234567890123456"
+  async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pubba95s116f-1234567890123456"
   crossorigin="anonymous"></script>
+  
 </head>
 <body>
   {children}
