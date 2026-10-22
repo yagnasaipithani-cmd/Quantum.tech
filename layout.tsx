@@ -4,7 +4,9 @@
   
 </head>
 <body>
+
   {children}
+  <a href="/blog">Blog</a>
   (process.env.NEXT_PUBLIC_GA_TRACKING_ID && <Analytics id={process.env.NEXT_PUBLIC_GA_TRACKING_ID} />)
 </body>
 </html>
